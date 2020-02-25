@@ -32,9 +32,19 @@ LIMIT 10
 # Exercise 6
 SELECT track_name
 FROM app
-ORDER BY user_rating DESC, rating_count_tot DESC
+ORDER BY user_rating DESC
 LIMIT 10
 
+# Exercise 10
+SELECT track_name
+FROM app
+ORDER BY user_rating DESC, rating_count_tot DESC
+LIMIT 3
 
+# Exercise 11
+SELECT track_name, price
+FROM app
+ORDER BY rating_count_tot DESC
+LIMIT 10
 
 
