@@ -1,0 +1,11 @@
+Challenge 1: What is the difference between expected value and mean?
+
+- The mean of a random variable is obtained by the summation of all it's possible values devided by the number of possible values; - The expected value of a random variable is obtained by the summation of all possible values multiplied by the correspondent probability;
+
+Challenge 2: What is the "problem" in science with p-values?
+
+- The problem is that some people, when the p-value is higher than, let's sat 0.05, conclude that there's no difference. Not negatting the null hypothesis is different than accepting it.
+
+Challenge 3: Applying testing to a specific case: A/B testing
+
+- A general example in sales would be to print out different sales advertising papers with different colors, headers, words and see how customers responded to it;
